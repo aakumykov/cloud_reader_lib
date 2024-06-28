@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "cloud_reader_lib"
 include ':app'
+include ':cloud_reader'
